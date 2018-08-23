@@ -13,7 +13,7 @@ Libs used in this game:
 * Entity source code from http://www.osmstudios.com/page/tutorials (platformer tutorial)
 
 Assets used in this game:
-* Kenney (ui and objects) https://www.kenney.nl/assets
+* Kenney (ui and sprites) https://www.kenney.nl/assets
 * opengameart (sound) https://opengameart.org/
 
 Futures implementation
