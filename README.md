@@ -2,6 +2,7 @@
 Space ship game
 
 Another game like asteroid, you can play only with mouse
+
 ver 1.0
 
 Libs used in this game:
