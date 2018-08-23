@@ -16,6 +16,12 @@ Assets used in this game:
 * Kenney (ui and sprites) https://www.kenney.nl/assets
 * opengameart (sound) https://opengameart.org/
 
+Tools
+* Spritecow   http://www.spritecow.com/
+* Da Button Factorty https://dabuttonfactory.com/
+* Flammingtext https://flamingtext.com/
+* ZeroSprites http://zerosprites.com/
+
 Futures implementation
 
 -- Better sound controll
@@ -23,4 +29,3 @@ Futures implementation
 -- Add more missiles
 
 -- Random enemies respawn
-
