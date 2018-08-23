@@ -24,8 +24,8 @@ Tools
 
 Futures implementation
 
--- Better sound controll
+--  Better sound controll
 
--- Add more missiles
+--  Add more missiles
 
--- Random enemies respawn
+--  Random enemies respawn
