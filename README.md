@@ -16,7 +16,10 @@ Assets used in this game:
 * opengameart (sound) https://opengameart.org/
 
 Futures implementation
+
 -- Better sound controll
+
 -- Add more missiles
+
 -- Random enemies respawn
 
